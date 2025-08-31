@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Virtual environments
+env/
+venv/
+*.env
+*.venv
+*.conda
+*.egg-info/
+
+# OS files
+.DS_Store
+
+# Data (don’t upload raw datasets)
+data/
